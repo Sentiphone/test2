@@ -1,5 +1,5 @@
 # Cofee & Code - session 2
 
-learning all about `Git`
+learning all about `Git` ...and something else
 
 ## Some more content here? 
